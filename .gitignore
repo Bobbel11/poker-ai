@@ -1,0 +1,54 @@
+# Build folders
+/build/
+/cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Compiled dynamic/shared libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# MinGW / GCC / Clang temporary files
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# Visual Studio specific
+*.vcxproj*
+*.sln
+*.user
+*.filters
+
+# MacOS specific
+.DS_Store
+
+# Linux specific
+*.swp
+*~
+
+# Other IDE/editor files (optional)
+.idea/
+.vscode/
