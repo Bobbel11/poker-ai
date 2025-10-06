@@ -15,7 +15,7 @@ Tested on GCC, Clang, and MSVC.
 
 ### 1. Clone the repository
 
-    git clone <repository_url>
+    git clone git@github.com:Bobbel11/poker-ai.git
     cd template
 
 ### 2. Create a build directory
